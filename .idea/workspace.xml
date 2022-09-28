@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae7a2d13-b580-4d09-8273-5d4917532d79" name="Changes" comment="[feat] 초기 프로젝트 설정">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz1000.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz1001.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz1008.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz1271.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz1330.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2338.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2420.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2438.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2475.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2557.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2558.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2738.kt" afterDir="false" />
+    <list default="true" id="ae7a2d13-b580-4d09-8273-5d4917532d79" name="Changes" comment="[feat] gitignore 수정">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.Bz2738Kt">
     <configuration name="Bz2438Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronze5.Bz2438Kt" />
@@ -117,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664158654412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[feat] 백준 브론즈5 단계 문제 풀이">
+      <created>1664279518019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279518019</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[feat] gitignore 수정">
+      <created>1664279544287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279544287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +135,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat] 초기 프로젝트 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] 초기 프로젝트 설정" />
+    <MESSAGE value="[feat] 백준 브론즈5 단계 문제 풀이" />
+    <MESSAGE value="[feat] gitignore 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] gitignore 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
