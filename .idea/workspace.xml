@@ -4,18 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae7a2d13-b580-4d09-8273-5d4917532d79" name="Changes" comment="[feat] gitignore 수정">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2739.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2741.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2743.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2744.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2753.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz2754.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz3003.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz3733.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz4101.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz4999.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ae7a2d13-b580-4d09-8273-5d4917532d79" name="Changes" comment="[feat] 백준 브론즈5 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/BZ11382.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10170.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10171.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10172.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10430.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10699.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10718.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10757.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10807.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10809.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10869.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10871.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10872.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10926.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10950.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10951.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz10998.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz11021.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz11022.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz11654.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz11718.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz11942.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz13277.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz14645.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz14652.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz14681.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz14928.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz9498.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz9653.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bronze5/Bz9654.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,37 +72,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Bz4999Kt">
-    <configuration name="Bz2754Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze5.Bz2754Kt" />
+  <component name="RunManager" selected="Kotlin.Bz14928Kt">
+    <configuration name="Bz13277Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze5.Bz13277Kt" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bz3003Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze5.Bz3003Kt" />
+    <configuration name="Bz14645Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze5.Bz14645Kt" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bz3733Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze5.Bz3733Kt" />
+    <configuration name="Bz14652Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze5.Bz14652Kt" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bz4101Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze5.Bz4101Kt" />
+    <configuration name="Bz14681Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze5.Bz14681Kt" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bz4999Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze5.Bz4999Kt" />
+    <configuration name="Bz14928Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze5.Bz14928Kt" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Bz4999Kt" />
-        <item itemvalue="Kotlin.Bz4101Kt" />
-        <item itemvalue="Kotlin.Bz3733Kt" />
-        <item itemvalue="Kotlin.Bz3003Kt" />
-        <item itemvalue="Kotlin.Bz2754Kt" />
+        <item itemvalue="Kotlin.Bz14928Kt" />
+        <item itemvalue="Kotlin.Bz14681Kt" />
+        <item itemvalue="Kotlin.Bz14652Kt" />
+        <item itemvalue="Kotlin.Bz14645Kt" />
+        <item itemvalue="Kotlin.Bz13277Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664365063551</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[feat] 백준 브론즈5 문제 풀이">
+      <created>1664371113587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664371113587</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[feat] 백준 브론즈5 문제 풀이">
+      <created>1664883476123</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664883476123</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +187,8 @@
     <MESSAGE value="[feat] 초기 프로젝트 설정" />
     <MESSAGE value="[feat] 백준 브론즈5 단계 문제 풀이" />
     <MESSAGE value="[feat] gitignore 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] gitignore 수정" />
+    <MESSAGE value="[feat] 백준 브론즈5 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] 백준 브론즈5 문제 풀이" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
