@@ -1,0 +1,7 @@
+package programmers.lv1
+
+class Solution12918 {
+    fun solution(s: String): Boolean {
+        return (s.length == 4 || s.length == 6) && s.toIntOrNull() != null
+    }
+}
